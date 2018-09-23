@@ -1,0 +1,15 @@
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\bin\Debug\netcoreapp2.1\Server.dll
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\bin\Debug\netcoreapp2.1\Server.pdb
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\bin\Debug\netcoreapp2.1\Thrift.dll
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\bin\Debug\netcoreapp2.1\Thrift.pdb
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\bin\Debug\netcoreapp2.1\Thrift.dll.config
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\obj\Debug\netcoreapp2.1\Server.csproj.CopyComplete
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\obj\Debug\netcoreapp2.1\Server.dll
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftCore\Server\obj\Debug\netcoreapp2.1\Server.pdb
